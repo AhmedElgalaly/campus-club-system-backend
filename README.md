@@ -268,6 +268,12 @@ CSV import rules:
   - direct `imageUrl`, always
   - file upload when Cloudinary is configured
 
+## License and Attribution
+
+- Copyright (C) 2026 Ahmed Elgalaly
+- Licensed under GNU General Public License v3.0 only (`GPL-3.0-only`)
+- Repository owner and primary author: Ahmed Elgalaly (`https://github.com/ahmedelgalaly`)
+
 ## Optional Future Work
 
 - Add integration/unit tests per service

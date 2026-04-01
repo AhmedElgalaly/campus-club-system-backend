@@ -20,8 +20,12 @@
     "start:gateway": "node api-gateway/src/server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ahmed Elgalaly",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedelgalaly/campus-club-system-backend.git"
+  },
   "description": "",
   "dependencies": {
     "amqplib": "^0.10.9",
